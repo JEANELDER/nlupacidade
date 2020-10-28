@@ -1,0 +1,92 @@
+body{
+	background: rgba(222,222,222,0.5);
+	font-family: Comfortaa;
+}
+main{
+
+	min-height: 300px;
+}
+.card-body{
+	margin: 5px;
+}
+.topo{
+	background-color: #fca311;
+	padding: 5px;
+}
+.logo{
+	background-color: #14213d;
+	padding-left: 40px;
+}
+.titulo{
+	background-color: #e5e5e5;
+}
+#btn-acesso{
+	background-color: #14213d;
+	border:solid #14213d;
+	color: #fca311;
+	margin: 0px 5px;
+}
+#btn-cadastro{
+	background-color: #fca311;
+	border:solid #fca311;
+	color: #14213d;
+	margin: 0px 5px;
+}
+}
+#btn-buscar{
+	background-color: #fca311;
+	border:solid #fca311;
+	color: #e5e5e5;
+	margin: 0px 5px;
+}
+#mark-cadastro{
+	border-radius: 5px;
+	padding: 5px;
+}
+.busca{
+	background: url('../img/site/cidade.png');
+	background-size:contain; 
+	min-height: 280px;
+}
+.busca-texto{
+	background: rgba(222,222,222,0.7);
+	padding: 5px;
+	border-radius: 10px;
+}
+.busca-grupo{
+	background: rgba(222,222,222,0.7);
+	border-radius: 10px;	
+}
+.busca-titulo{
+	padding: 5px;
+	border-bottom: solid #fca311;
+}
+.busca-categoria{	
+	padding: 5px;	
+}
+.cat-itens{
+	margin: 30px 0px;
+	color:#14213d;
+}
+.cadastro{
+	
+}
+.img-cadastro{
+	background: url('../img/site/cadastro.png');
+	background-size: contain; 
+	min-height: 300px;
+}
+.form-cadastro{
+	background-color: rgba(255,255,255,0.9); 
+}
+
+.serv-lista{
+	padding: 10px;
+	background-color: red;
+}
+
+.lista-title{
+	color:red;
+}
+}
+
